@@ -1,2 +1,4 @@
 User-agent: *
 Disallow: /favicon.ico
+
+Sitemap:https://xiaosiwan.github.io/Sitemao.xml
